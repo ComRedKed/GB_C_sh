@@ -9,17 +9,17 @@ int Prompt(string message)
     return value;
 }
 // Первый вариант:
-string[] days = { "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье" };
-int value = Prompt("Введите день неделю > ");
-if (value < 0 || value > 7)
-{
-    System.Console.WriteLine("Нет такого дня недели");
-}
-else
-{
-    int daysValue = value - 1;
-    System.Console.WriteLine($"{value} => {days[daysValue]}");
-}
+// string[] days = { "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье" };
+// int value = Prompt("Введите день неделю > ");
+// if (value < 0 || value > 7)
+// {
+//     System.Console.WriteLine("Нет такого дня недели");
+// }
+// else
+// {
+//     int daysValue = value - 1;
+//     System.Console.WriteLine($"{value} => {days[daysValue]}");
+// }
 
 // Второй вариант:
 int value = Prompt("Введите день недели > ");

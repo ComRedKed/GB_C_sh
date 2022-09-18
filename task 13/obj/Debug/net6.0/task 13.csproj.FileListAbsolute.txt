@@ -1,0 +1,15 @@
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.csproj.AssemblyReference.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.AssemblyInfoInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.AssemblyInfo.cs
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.csproj.CoreCompileInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/bin/Debug/net6.0/task 13
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/bin/Debug/net6.0/task 13.deps.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/bin/Debug/net6.0/task 13.runtimeconfig.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/bin/Debug/net6.0/task 13.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/bin/Debug/net6.0/task 13.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/refint/task 13.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/task 13.genruntimeconfig.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 13/obj/Debug/net6.0/ref/task 13.dll

@@ -27,10 +27,10 @@ if (value < 0)
 }
 else
 {
-    // for (int i = 1; i <= value; i++)
-    // {
-    //     factorial = factorial * i;
-    // }
+    for (int i = 1; i <= value; i++)
+    {
+        factorial = factorial * i;
+    }
     System.Console.WriteLine($"Факториал {value} равен => {Factorial(value)}");
 }
 

@@ -1,0 +1,20 @@
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/HW2 task2/obj/Debug/net6.0/HW2 task2.csproj.AssemblyReference.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/HW2 task2/obj/Debug/net6.0/HW2 task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/HW2 task2/obj/Debug/net6.0/HW2 task2.AssemblyInfoInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/HW2 task2/obj/Debug/net6.0/HW2 task2.AssemblyInfo.cs
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/HW2 task2/obj/Debug/net6.0/HW2 task2.csproj.CoreCompileInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/bin/Debug/net6.0/HW2 task2
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/bin/Debug/net6.0/HW2 task2.deps.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/bin/Debug/net6.0/HW2 task2.runtimeconfig.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/bin/Debug/net6.0/HW2 task2.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/bin/Debug/net6.0/HW2 task2.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.csproj.AssemblyReference.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.AssemblyInfoInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.AssemblyInfo.cs
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.csproj.CoreCompileInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/refint/HW2 task2.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/HW2 task2.genruntimeconfig.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW2 task2/obj/Debug/net6.0/ref/HW2 task2.dll

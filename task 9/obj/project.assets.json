@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 9/task 9.csproj",
+      "projectUniqueName": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 9/task 9.csproj",
       "projectName": "task 9",
-      "projectPath": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 9/task 9.csproj",
+      "projectPath": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 9/task 9.csproj",
       "packagesPath": "/Users/aleksandrkaskarov/.nuget/packages/",
-      "outputPath": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/Lesson 2/task 9/obj/",
+      "outputPath": "/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 9/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aleksandrkaskarov/.nuget/NuGet/NuGet.Config"
