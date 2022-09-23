@@ -1,0 +1,15 @@
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.csproj.AssemblyReference.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.AssemblyInfoInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.AssemblyInfo.cs
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.csproj.CoreCompileInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/bin/Debug/net6.0/task 20
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/bin/Debug/net6.0/task 20.deps.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/bin/Debug/net6.0/task 20.runtimeconfig.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/bin/Debug/net6.0/task 20.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/bin/Debug/net6.0/task 20.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/refint/task 20.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/task 20.genruntimeconfig.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/task 20/obj/Debug/net6.0/ref/task 20.dll
