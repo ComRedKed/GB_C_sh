@@ -1,0 +1,15 @@
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/bin/Debug/net6.0/HW5 task 3
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/bin/Debug/net6.0/HW5 task 3.deps.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/bin/Debug/net6.0/HW5 task 3.runtimeconfig.json
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/bin/Debug/net6.0/HW5 task 3.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/bin/Debug/net6.0/HW5 task 3.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.csproj.AssemblyReference.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.AssemblyInfoInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.AssemblyInfo.cs
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.csproj.CoreCompileInputs.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/refint/HW5 task 3.dll
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.pdb
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/HW5 task 3.genruntimeconfig.cache
+/Users/aleksandrkaskarov/База знаний/GB HW/C#/lessons_cs_gb/HW5 task 3/obj/Debug/net6.0/ref/HW5 task 3.dll
