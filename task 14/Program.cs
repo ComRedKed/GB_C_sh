@@ -19,24 +19,24 @@ int summ = num1 + num2 + num3 + num4 + num5;
 double average = summ / 5;
 Console.WriteLine($"{num1}, {num2}, {num4}, {num4}, {num5} -> сумма {summ}, среднее {average}");
 
-// Решение с массивом:
-int[] numbers = new int[5];
-for (int i = 0; i < numbers.Length; i++)
-{
-    numbers[i] = Prompt($"Введите число {i + 1} > ");
-}
-int summ = Summ(numbers);
-double average;
+// // Решение с массивом:
+// int[] numbers = new int[5];
+// for (int i = 0; i < numbers.Length; i++)
+// {
+//     numbers[i] = Prompt($"Введите число {i + 1} > ");
+// }
+// int summ = Summ(numbers);
+// double average;
 
-average = summ / numbers.Length;
-Console.WriteLine($" -> сумма {summ}, среднее {average}");
+// average = summ / numbers.Length;
+// Console.WriteLine($" -> сумма {summ}, среднее {average}");
 
-int Summ(int[] numbers)
-{
-    int summ = 0;
-    for (int i = 0; i < numbers.Length; i++)
-    {
-        summ += numbers[i];
-    }
-    return summ;
-}
+// int Summ(int[] numbers)
+// {
+//     int summ = 0;
+//     for (int i = 0; i < numbers.Length; i++)
+//     {
+//         summ += numbers[i];
+//     }
+//     return summ;
+// }
